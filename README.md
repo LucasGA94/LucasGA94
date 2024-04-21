@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasGA94
-- 👀 I’m interested in cyber security.
+- 👀 I’m interested in Linux, Docker and cyber security.
 - 🌱 I’m currently learning computation.
 - 💞️ I’m looking to collaborate on cyber security projects.
 - 📫 How to reach me @swelldegree on Twitter/X.
